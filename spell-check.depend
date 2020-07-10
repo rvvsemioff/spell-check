@@ -1,0 +1,653 @@
+# depslib dependency file v1.0
+1559775920 source:c:\i\work\tools\dict\libreader\v0.1\main.c
+	"console.h"
+
+1555448770 source:c:\i\work\tools\dict\libreader\v0.1\sqlite3.c
+	"config.h"
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	<ctype.h>
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
+1555448770 c:\i\work\tools\dict\libreader\v0.1\sqlite3.h
+	<stdarg.h>
+
+1556044215 source:c:\i\work\tools\dict\libreader\v0.1\sheet.c
+	<windows.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+
+1559864036 c:\i\work\tools\dict\libreader\v0.1\parse_text.h
+	"init.h"
+
+1559864036 source:c:\i\work\tools\dict\libreader\v0.1\parse_text.c
+	"parse_text.h"
+
+1556105959 source:c:\i\work\tools\dict\libreader\v0.1 - restore\main.c
+	"parse_text.h"
+
+1555448770 source:c:\i\work\tools\dict\libreader\v0.1 - restore\sqlite3.c
+	"config.h"
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	<ctype.h>
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
+1556121783 c:\i\work\tools\dict\libreader\v0.1 - restore\parse_text.h
+	<windows.h>
+	<ctype.h>
+	<stdlib.h>
+	<stdio.h>
+	"sqlite3.h"
+
+1555448770 c:\i\work\tools\dict\libreader\v0.1 - restore\sqlite3.h
+	<stdarg.h>
+
+1556122302 source:c:\i\work\tools\dict\libreader\v0.1 - restore\parse_text.c
+	"parse_text.h"
+
+1559863723 c:\i\work\tools\dict\libreader\v0.1\init.h
+	<windows.h>
+	<ctype.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"sqlite3.h"
+
+1559864110 c:\i\work\tools\dict\libreader\v0.1\console.h
+	"parse_text.h"
+
+1559864036 source:c:\i\work\tools\dict\libreader\v0.1\console.c
+	"console.h"
+
+1559864036 source:c:\i\work\tools\dict\lexreader\lexreader 1.0\console.c
+	"console.h"
+
+1559864110 c:\i\work\tools\dict\lexreader\lexreader 1.0\console.h
+	"parse_text.h"
+
+1559864036 c:\i\work\tools\dict\lexreader\lexreader 1.0\parse_text.h
+	"init.h"
+
+1559864186 c:\i\work\tools\dict\lexreader\lexreader 1.0\init.h
+	<windows.h>
+	<ctype.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"sqlite3.h"
+
+1555448770 c:\i\work\tools\dict\lexreader\lexreader 1.0\sqlite3.h
+	<stdarg.h>
+
+1559775920 source:c:\i\work\tools\dict\lexreader\lexreader 1.0\main.c
+	"console.h"
+
+1559864036 source:c:\i\work\tools\dict\lexreader\lexreader 1.0\parse_text.c
+	"parse_text.h"
+
+1555448770 source:c:\i\work\tools\dict\lexreader\lexreader 1.0\sqlite3.c
+	"config.h"
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	<ctype.h>
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
+1561160115 source:c:\i\work\tools\dict\lexreader\lexreader 1.5\console.c
+	"console.h"
+
+1561150058 c:\i\work\tools\dict\lexreader\lexreader 1.5\console.h
+	"parse_text.h"
+
+1561131782 c:\i\work\tools\dict\lexreader\lexreader 1.5\parse_text.h
+	"codepage.h"
+
+1561070362 c:\i\work\tools\dict\lexreader\lexreader 1.5\init.h
+	<windows.h>
+	<ctype.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<wchar.h>
+	"sqlite3.h"
+
+1555448770 c:\i\work\tools\dict\lexreader\lexreader 1.5\sqlite3.h
+	<stdarg.h>
+
+1561291854 source:c:\i\work\tools\dict\lexreader\lexreader 1.5\main.c
+	"console.h"
+	<io.h>
+	<fcntl.h>
+
+1561076755 source:c:\i\work\tools\dict\lexreader\lexreader 1.5\parse_text.c
+	"parse_text.h"
+
+1555448770 source:c:\i\work\tools\dict\lexreader\lexreader 1.5\sqlite3.c
+	"config.h"
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	<ctype.h>
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
+1560634008 source:c:\i\work\tools\dict\lexreader\lexreader 1.5\decode.c
+	"decode.h"
+
+1560634104 c:\i\work\tools\dict\lexreader\lexreader 1.5\decode.h
+	"init.h"
+
+1561158183 c:\i\work\tools\dict\lexreader\lexreader 1.5\codepage.h
+	"init.h"
+
+1561309930 source:c:\i\work\tools\dict\lexreader\lexreader 1.5\codepage.c
+	"codepage.h"
+
+1571067327 source:d:\i\work\tools\lexreader\lexreader\lexreader 1.5\codepage.c
+	"codepage.h"
+
+1562774698 d:\i\work\tools\lexreader\lexreader\lexreader 1.5\codepage.h
+	"init.h"
+
+1570371528 d:\i\work\tools\lexreader\lexreader\lexreader 1.5\init.h
+	<windows.h>
+	<ctype.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<wchar.h>
+	"sqlite3.h"
+
+1555445170 d:\i\work\tools\lexreader\lexreader\lexreader 1.5\sqlite3.h
+	<stdarg.h>
+
+1571065435 source:d:\i\work\tools\lexreader\lexreader\lexreader 1.5\console.c
+	"console.h"
+
+1570825650 d:\i\work\tools\lexreader\lexreader\lexreader 1.5\console.h
+	"parse_text.h"
+
+1570834821 d:\i\work\tools\lexreader\lexreader\lexreader 1.5\parse_text.h
+	"codepage.h"
+
+1581690703 source:d:\i\work\tools\lexreader\lexreader\lexreader 1.5\main.c
+	"console.h"
+	<io.h>
+	<fcntl.h>
+
+1582295821 source:d:\i\work\tools\lexreader\lexreader\lexreader 1.5\parse_text.c
+	"parse_text.h"
+
+1555445170 source:d:\i\work\tools\lexreader\lexreader\lexreader 1.5\sqlite3.c
+	"config.h"
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	<ctype.h>
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
+1594402530 source:d:\i\work\tools\spell_checker\codepage.c
+	"codepage.h"
+
+1594402004 d:\i\work\tools\spell_checker\codepage.h
+	"init.h"
+
+1594402004 d:\i\work\tools\spell_checker\init.h
+	<windows.h>
+	<ctype.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<wchar.h>
+	"sqlite3.h"
+
+1555448770 d:\i\work\tools\spell_checker\sqlite3.h
+	<stdarg.h>
+
+1594410147 source:d:\i\work\tools\spell_checker\console.c
+	"console.h"
+
+1594410007 d:\i\work\tools\spell_checker\console.h
+	"parse_text.h"
+
+1594402586 d:\i\work\tools\spell_checker\parse_text.h
+	"codepage.h"
+
+1594402530 source:d:\i\work\tools\spell_checker\parse_text.c
+	"parse_text.h"
+
+1555448770 source:d:\i\work\tools\spell_checker\sqlite3.c
+	"config.h"
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	<ctype.h>
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
+1594410007 source:d:\i\work\tools\spell_checker\main.c
+	"console.h"
+	<io.h>
+	<fcntl.h>
+
+1594340009 d:\i\work\tools\spell_checker\create.h
+	"parse_text.h"
+
+1594342248 source:d:\i\work\tools\spell_checker\create.c
+	"create.h"
+
+1594395218 d:\i\work\tools\spell_checker\import.h
+	"parse_text.h"
+
+1594402530 source:d:\i\work\tools\spell_checker\import.c
+	"import.h"
+
+1594402530 source:d:\i\work\tools\spell-check\codepage.c
+	"codepage.h"
+
+1594402004 d:\i\work\tools\spell-check\codepage.h
+	"init.h"
+
+1594402004 d:\i\work\tools\spell-check\init.h
+	<windows.h>
+	<ctype.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<wchar.h>
+	"sqlite3.h"
+
+1555448770 d:\i\work\tools\spell-check\sqlite3.h
+	<stdarg.h>
+
+1594411600 source:d:\i\work\tools\spell-check\console.c
+	"console.h"
+
+1594410007 d:\i\work\tools\spell-check\console.h
+	"parse_text.h"
+
+1594402586 d:\i\work\tools\spell-check\parse_text.h
+	"codepage.h"
+
+1594402530 source:d:\i\work\tools\spell-check\import.c
+	"import.h"
+
+1594395218 d:\i\work\tools\spell-check\import.h
+	"parse_text.h"
+
+1594410007 source:d:\i\work\tools\spell-check\main.c
+	"console.h"
+	<io.h>
+	<fcntl.h>
+
+1594402530 source:d:\i\work\tools\spell-check\parse_text.c
+	"parse_text.h"
+
+1555448770 source:d:\i\work\tools\spell-check\sqlite3.c
+	"config.h"
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	<ctype.h>
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
